@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sf628
 - 👀 I’m interested in learning to code as a marketer and business owner
 - 🌱 I’m currently learning Git, Python, CSS, HTML, Javascript, Google Apps Scripts
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on SaSS projects to help local businesses
 - 📫 Reach me on https://628media.com/contact-us/
